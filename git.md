@@ -1,11 +1,5 @@
 # GIT
 
-## Estados
-
-* Modificado (modified);
-* Preparado (staged/index)
-* Consolidado (comitted);
-
 ## Ajuda
 
 ##### Geral
