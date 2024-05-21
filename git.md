@@ -1,8 +1,8 @@
 # GIT
-> Git pull
+## Git pull
 Antes de começar a programar em algum repositório, é bom também executar um “pull”. Esse comando traz para a sua máquina todas as mudanças que foram realizadas na plataforma. Ou seja, é uma forma de atualizar a sua versão da aplicação com o que foi alterado remotamente.
 
-> Git push
+## Git push
 O push serve para subir as alterações de uma ramificação para um certo repositório. Ele entrega todos os commits e a mensagem. Exemplo: “git push
 
 ##### Geral
